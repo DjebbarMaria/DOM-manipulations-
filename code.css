@@ -1,0 +1,43 @@
+h1 {
+  color: azure;
+  text-align: center;
+}
+body {
+  background-color: pink;
+}
+.div1 {
+  background-color: azure;
+  position: absolute;
+  width: 650px;
+  height: 300px;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 20px;
+  text-align: center;
+}
+/* css pour avoir un button 3D*/
+.btn {
+  border-radius: 20px;
+  padding: 10px 20px;
+  background: pink;
+  box-shadow: 0 6px rgb(255, 192, 219);
+  outline: none;
+  border: none;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.div2 {
+  background-color: rgb(221, 160, 180);
+  position: absolute;
+  width: 200px;
+  height: 700px;
+  margin: auto;
+  border-radius: 20px;
+  text-align: center;
+}
